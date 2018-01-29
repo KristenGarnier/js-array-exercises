@@ -8,7 +8,13 @@
     "test:1": "mocha exercises/**/1.spec.js",
     "test:2": "mocha exercises/**/2.spec.js",
     "test:3": "mocha exercises/**/3.spec.js",
-    "test:4": "mocha exercises/**/4.spec.js"
+    "test:4": "mocha exercises/**/4.spec.js",
+    "test:5": "mocha exercises/**/5.spec.js",
+    "test:6": "mocha exercises/**/6.spec.js",
+    "test:7": "mocha exercises/**/7.spec.js",
+    "test:8": "mocha exercises/**/8.spec.js",
+    "test:9": "mocha exercises/**/9.spec.js",
+    "test:10": "mocha exercises/**/10.spec.js"
   },
   "author": "",
   "license": "ISC",
